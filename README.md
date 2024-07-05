@@ -30,6 +30,6 @@ To run the application, follow these steps for both the frontend and backend:
 
 5. **Screenshots:**
 
-    <img src="https://github.com/DiabolikArms/MERN-AI-ChatBot/assets/135941122/63b49b80-a12f-447a-a37f-9f77d8edc657" alt="Screenshot 1" width="400"/>
-    <img src="https://github.com/DiabolikArms/MERN-AI-ChatBot/assets/135941122/4036dded-6af7-4101-a1f0-cbcf13124a04" alt="Screenshot 2" width="400"/>
-    <img src="https://github.com/DiabolikArms/MERN-AI-ChatBot/assets/135941122/788ad7da-5824-4e64-b448-ac4e10102b5c" alt="Screenshot 3" width="400"/>
+    ![image](https://github.com/DiabolikArms/MERN-AI-ChatBot/assets/135941122/63b49b80-a12f-447a-a37f-9f77d8edc657)
+    ![image](https://github.com/DiabolikArms/MERN-AI-ChatBot/assets/135941122/4036dded-6af7-4101-a1f0-cbcf13124a04)
+    ![image](https://github.com/DiabolikArms/MERN-AI-ChatBot/assets/135941122/788ad7da-5824-4e64-b448-ac4e10102b5c)
